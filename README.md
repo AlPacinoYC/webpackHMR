@@ -4,5 +4,8 @@
 npm install
 
 npm start # for development
+locahost:8080
+
+or
 npm run build # production
 ```
