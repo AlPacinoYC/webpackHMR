@@ -1,10 +1,10 @@
 # webpackHMR
-最小话的webpack热模块替换代码（the simplest webpack's hmr demo）。
+最简单的webpack热模块替换代码（the simplest webpack's hmr demo）。
 ```
 npm install
 
 npm start # for development
-locahost:8080
+localhost:8080
 
 or
 npm run build # production
